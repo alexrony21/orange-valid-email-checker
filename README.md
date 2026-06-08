@@ -6,7 +6,7 @@
 # Features  
 1. **Fast Checking**  
 2. **Accurate Result**
-3. **Hugh CPM with good proxies** 
+3. **High CPM with good proxies** 
 4. **Unlimited Checking** 
 5. **Free Lifetime Update**
 
